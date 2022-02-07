@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Shabeiko_Organic_Farm__E_Commerce_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
